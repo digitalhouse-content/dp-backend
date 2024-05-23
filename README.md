@@ -67,7 +67,6 @@ Temática: Billetera Digital (Digital Money House  )
 
 ## Autor
 
-- LinkedIn - [Mauricio Brito](https://www.linkedin.com/in/mauricio-brito-62b0a6140/)
-- Github - [@mauriciobrito7](https://github.com/mauriciobrito7)
+- Propiedad de Digital House ❤️​
 
 [Volver arriba](#digital-money-house-frontend)
